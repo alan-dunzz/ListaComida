@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="precio_desayuno">MX $89.0</string>
+    <string name="precio_hamburger">MX $119.0</string>
+    <string name="precio_pizza">MX $149.0</string>
+    <string name="precio_postre">MX $59.0</string>
+    <string name="precio_pozole">MX $109.0</string>
+    <string name="precio_tacos">MX $89.0</string>
+</resources>

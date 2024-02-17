@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descuento_desayuno">Ahorra hasta el 30%</string>
+    <string name="descuento_hamburger">Ahorra hasta el 20%</string>
+    <string name="descuento_pizza">Miércoles de 2x1</string>
+    <string name="descuento_postre">Al comprar recibe un café gratis</string>
+    <string name="descuento_pozole">Segundo pozole con 50%</string>
+    <string name="descuento_tacos">Tacos al 3x2</string>
+</resources>

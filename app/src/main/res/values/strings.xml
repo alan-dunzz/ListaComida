@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ListaComida</string>
+    <string name="app_name">Commudel</string>
     <string name="desayuno">Desayuno deluxe</string>
     <string name="hamburger">Hamburguesa</string>
     <string name="pizza">Pizza italiana</string>

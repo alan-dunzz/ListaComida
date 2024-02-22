@@ -89,20 +89,17 @@ fun MenuCard(platillo: Platillo, modifier:Modifier = Modifier){
                         modifier = Modifier
                             .padding(horizontal = 22.dp)
                             .padding(top = 22.dp),
-                        style = MaterialTheme.typography.headlineMedium,
-                        fontSize=25.sp,
-                        fontWeight = FontWeight.Medium,
+                        style = MaterialTheme.typography.displayLarge,
                     )
                     Text(
                         text= LocalContext.current.getString(platillo.precioResourceId),
                         modifier = Modifier.padding(horizontal=22.dp),
-                        fontSize=20.sp
+                        style = MaterialTheme.typography.displayMedium,
                     )
                     Text(
                         text= LocalContext.current.getString(platillo.descuentoResourceId),
                         modifier = Modifier.padding(horizontal=22.dp),
-                        fontSize=20.sp,
-                        fontWeight = FontWeight.Bold,
+                        style = MaterialTheme.typography.bodyLarge,
                         color= Color.Blue,
                     )
                 }
